@@ -1,0 +1,29 @@
+
+img {
+    height: 400px;
+    width: 500px;
+  }
+  .color-title {
+    font-weight: bolder;
+  }
+  
+  #red {
+    color: red;
+  }
+  
+  #blue {
+    color: blue;
+  }
+  
+  #orange {
+    color: orange;
+  }
+  
+  #green {
+    color: green;
+  }
+  
+  #yellow {
+    color: yellow;
+  }
+
